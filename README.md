@@ -6,13 +6,7 @@
 <h1 align="center">Hello! 👋, I’m Mariano Panella</h1>
 <h3 align="center">Test Automation Engineer, QA Engineer, SDET</h3>
 
-<h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
 <br>
 
 <h4> Connect with me🤝: <h4>
