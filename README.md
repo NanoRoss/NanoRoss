@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<main style="background-color:#CCCCCC !important;">
+<h1 align="center">Hello! 👋, I’m Mariano Panella</h1>
+<h3 align="center">Test Automation Engineer, QA Engineer, SDET</h3>
 <!--
 **NanoRoss/NanoRoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
