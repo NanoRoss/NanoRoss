@@ -1,7 +1,5 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-
-
 <main style="background-color:#CCCCCC !important;">
 <h1 align="center">Hello! 👋, I’m Mariano Panella</h1>
 <h3 align="center">Test Automation Engineer, QA Engineer, SDET</h3>
