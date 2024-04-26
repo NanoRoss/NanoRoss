@@ -4,6 +4,9 @@
 <h1 align="center">Hello! 👋, I’m Mariano Panella</h1>
 <h3 align="center">Test Automation Engineer, QA Engineer, SDET</h3>
 
+![](https://komarev.com/ghpvc/?username=NanoRoss)
+
+
 
 <br>
 
